@@ -1,0 +1,1 @@
+jar -cvfm sea_fight.jar manifest.mf -C ./bin ru

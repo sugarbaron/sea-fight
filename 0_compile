@@ -1,0 +1,1 @@
+javac -sourcepath ./source_code -d ./bin -classpath ./external_libraries/sugarbaron_bicycles_library_v002.jar ./source_code/ru/sugarbaron_bicycles/sea_fight/General.java

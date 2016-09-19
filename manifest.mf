@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: sugarbaron ([sugarbaron_bicycles] sugarbaron1@mail.ru)
+Main-Class: ru.sugarbaron_bicycles.sea_fight.General
+Class-Path: external_libraries/sugarbaron_bicycles_library_v002.jar
+
+
